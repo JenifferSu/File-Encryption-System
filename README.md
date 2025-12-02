@@ -56,7 +56,7 @@ The app is built using a **layered architecture** (Presentation → Business Log
 
 ---
 
-## 📸 Application Screenshots
+## 📸 Features
 
 ### 1. Secure Account Registration  
 Enforces strict password rules and uses masked input.  
